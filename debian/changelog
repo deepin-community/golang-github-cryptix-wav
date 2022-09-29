@@ -1,0 +1,24 @@
+golang-github-cryptix-wav (0.0~git20180415.8bdace6-2) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Trim trailing whitespace.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository, Repository-Browse.
+  * Use canonical URL in Vcs-Git.
+
+  [ Boyuan Yang ]
+  * debian/watch: Monitor git HEAD.
+  * Bump Standards-Version to 4.6.0.
+
+ -- Boyuan Yang <byang@debian.org>  Fri, 22 Oct 2021 11:57:56 -0400
+
+golang-github-cryptix-wav (0.0~git20180415.8bdace6-1) unstable; urgency=medium
+
+  * Upload to unstable.
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 19 Aug 2020 15:29:14 -0400
+
+golang-github-cryptix-wav (0.0~git20180415.8bdace6-1~exp1) experimental; urgency=medium
+
+  * Initial release.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Thu, 09 Jul 2020 19:12:14 +0545
